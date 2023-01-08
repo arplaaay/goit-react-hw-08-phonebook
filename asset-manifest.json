@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.d33dd536.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.0d96822c.js",
+    "static/js/708.8279f556.chunk.js": "/goit-react-hw-08-phonebook/static/js/708.8279f556.chunk.js",
+    "static/js/198.b26c7615.chunk.js": "/goit-react-hw-08-phonebook/static/js/198.b26c7615.chunk.js",
+    "static/js/768.224c5ef8.chunk.js": "/goit-react-hw-08-phonebook/static/js/768.224c5ef8.chunk.js",
+    "static/js/125.5e7e1f0f.chunk.js": "/goit-react-hw-08-phonebook/static/js/125.5e7e1f0f.chunk.js",
+    "static/js/66.61de2692.chunk.js": "/goit-react-hw-08-phonebook/static/js/66.61de2692.chunk.js",
+    "static/js/265.846f38e4.chunk.js": "/goit-react-hw-08-phonebook/static/js/265.846f38e4.chunk.js",
+    "index.html": "/goit-react-hw-08-phonebook/index.html",
+    "main.d33dd536.css.map": "/goit-react-hw-08-phonebook/static/css/main.d33dd536.css.map",
+    "main.0d96822c.js.map": "/goit-react-hw-08-phonebook/static/js/main.0d96822c.js.map",
+    "708.8279f556.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/708.8279f556.chunk.js.map",
+    "198.b26c7615.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/198.b26c7615.chunk.js.map",
+    "768.224c5ef8.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/768.224c5ef8.chunk.js.map",
+    "125.5e7e1f0f.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/125.5e7e1f0f.chunk.js.map",
+    "66.61de2692.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/66.61de2692.chunk.js.map",
+    "265.846f38e4.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/265.846f38e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.d33dd536.css",
+    "static/js/main.0d96822c.js"
   ]
 }
